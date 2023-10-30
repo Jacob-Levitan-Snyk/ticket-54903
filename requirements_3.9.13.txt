@@ -98,7 +98,7 @@ typing-extensions==3.10.0.2
 urllib3==1.26.9
 waitress==2.1.2
 wasabi==0.9.1
-Werkzeug==2.3.6
+Werkzeug==3.0.1
 wrapt==1.14.1
 yarl==1.8.2
 zipp==3.8.0
